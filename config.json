@@ -1,0 +1,6 @@
+{
+"directory": "images",
+"capacitorPin": 4,
+"brightnessThreshold": 14000,
+"adjustmentTime": 2
+}
